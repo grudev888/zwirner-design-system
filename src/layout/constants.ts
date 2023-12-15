@@ -108,7 +108,7 @@ export const gridColumnStyles = {
   gridCol: `
     grid
     grid-cols-12
-    gap-10 md:gap-15
+    gap-10 md:gap-[3.75rem]
   `,
 };
 
