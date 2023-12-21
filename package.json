@@ -78,7 +78,7 @@
     "babel-loader": "^9.1.2",
     "babel-plugin-styled-components": "^2.0.7",
     "chromatic": "^6.17.0",
-    "file-system-cache": "1.0.5",
+    "file-system-cache": "2.4.4",
     "husky": "^8.0.3",
     "identity-obj-proxy": "^3.0.0",
     "postcss": "^8.4.21",
